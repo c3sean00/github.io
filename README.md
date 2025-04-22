@@ -1,4 +1,4 @@
-# Welcome to My Awesome Static Website! 👋
+# Welcome to My Static Website! 👋
 
-This is a simple website hosted using **GitHub Pages** and built with [Markdown](https://www.markdownguide.org/).
+This is a simple website hosted using **GitHub Pages**
 
